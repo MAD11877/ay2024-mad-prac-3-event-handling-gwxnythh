@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaa3d38d-795b-4faa-a60a-58603f0d4fd5" name="Changes" comment="Initial Project Setup">
+    <list default="true" id="eaa3d38d-795b-4faa-a60a-58603f0d4fd5" name="Changes" comment="Completed Basics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,11 +66,20 @@
       <option name="project" value="LOCAL" />
       <updated>1714289385183</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed Basics">
+      <option name="closed" value="true" />
+      <created>1714293760663</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714293760663</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Project Setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Project Setup" />
+    <MESSAGE value="Completed Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Basics" />
   </component>
 </project>
